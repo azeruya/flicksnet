@@ -1,0 +1,16 @@
+.movie-list p {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+
+.popular-movie {
+    display: flex;
+    column-gap: 10px;
+}
+
+.popular-movie img {
+  height: 200px;
+  border-radius: 3px;
+}
